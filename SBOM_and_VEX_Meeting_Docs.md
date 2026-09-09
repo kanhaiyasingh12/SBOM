@@ -8,14 +8,7 @@
 
 > After that, I had a discussion with Samuel about SBOM. I try to understand the story and then we discussed the SBOM tools that will be used.
 
-> I need to meet the new security requirements by providing them with a clear list of what's in our software and what vulnerabilities actually affect us.
-
-> The tools I want to use:** I recommend **Syft** to generate the reports, **Trivy** to scan for vulnerabilities, **OpenVEX** to filter out the noise, and **Dependency-Track** to keep an eye on things daily.
-
-## 3. Critical Blockers & Roadblocks
-
-* **AKS Runner enumeration failure:** Issues with enumerating AKS runners. 
-* **Unappointed VEX authority:** A clear owner or authority needs to be defined for approving VEX files and overriding vulnerabilities.
+> I recommend **Syft** to generate the reports, **Trivy** to scan for vulnerabilities, **OpenVEX** to filter out the noise, and **Dependency-Track** to keep an eye on things daily.
 
 ---
 
