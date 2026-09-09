@@ -32,7 +32,7 @@
 
 * *"Without VEX, 85-90% of vulnerability alerts are non-exploitable noise (dead code). We should use OpenVEX (`.security/vex.json` in Git) to filter out false positives before evaluating gates, avoiding unnecessary release fire drills."*
 
-### Topic 5: For Central Platform (Dependency-Track)
+### 5: For Central Platform (Dependency-Track)
 
 *  *"Pipelines only scan during builds. We need OWASP Dependency-Track to continuously re-scan our deployed SBOMs every 24 hours against newly discovered zero-days without needing to rebuild or re-deploy applications."*
 
