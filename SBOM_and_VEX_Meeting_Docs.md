@@ -8,7 +8,7 @@
 
 > After that, I had a discussion with Samuel about SBOM. I try to understand the story and then we discussed the SBOM tools that will be used.
 
-> I recommend **Syft** to generate the reports, **Trivy** to scan for vulnerabilities, **OpenVEX** to filter out the noise, and **Dependency-Track** to keep an eye on everything daily.
+> I recommend **Syft** to generate the reports, **Trivy** to scan for vulnerabilities, **OpenVEX** to filter out the noise, and **Dependency-Track** to keep an eye everything daily.
 
 ---
 
