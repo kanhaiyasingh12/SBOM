@@ -2,7 +2,7 @@
 
 ## you chose this section (2 OPENINGS)
 
-> Yesterday, I worked on the Helious QRE Report group alerts related to the QA promotion and helped Constantin resolve them.
+> Yesterday, I worked on the Helious QRE Report group alerts related to the QA promotion and helped to Constantin for resolve them.
 
 >Then, I added the Fabric Knowledge Graph Discovery Report to the ADO Wiki for both the DEV and QA environments.
 
