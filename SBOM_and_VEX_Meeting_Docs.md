@@ -1,25 +1,5 @@
 # Meeting Discussion Notes: SBOM & VEX Implementation
 
-**Meeting Objective:** Align on tooling selection, review implementation status, address critical blockers, and agree on Phase 1 delivery scope with Sam Chai and engineering leadership.
-
----
-
-## Executive Summary (The 5-Minute Brief)   (you choose this section )
-*(If asked to give the brief in 5 minutes)*
-
-**Opening Statement:**
-
->I need to meet the new security requirements by providing them with a clear list of what's in our software and what vulnerabilities actually affect us.
-
-> The good news is, we've already built this out for almost all of our services (44 out of 46) behind the scenes, so it won't slow down our developers or break our current pipelines. 
-
-**The 5-Minute TL;DR:**
-1. **Where we are right now:** We are about 95% done. The automation scripts are built and running quietly in the background without causing any friction for the engineering teams.
-2. **The tools I want to use:** I recommend **Syft** to generate the reports, **Trivy** to scan for vulnerabilities, **OpenVEX** to filter out the noise, and **Dependency-Track** to keep an eye on things daily.
-3. **Why we chose these tools:** Most security alerts are just noise—stuff that isn't actually exploitable in our code. This specific setup lets us easily filter out that 85-90% of 'junk' alerts so we only focus on real threats. Plus, it works perfectly with both Azure DevOps and GitHub.
-
----
-
 ## you chose this section (2 OPENINGS)
 
 > Yesterday, I worked on the Helious QRE Report group alerts related to the QA promotion and helped Constantin resolve them.
