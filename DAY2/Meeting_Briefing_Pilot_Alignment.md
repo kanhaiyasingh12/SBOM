@@ -9,11 +9,11 @@
 
 >I Completed the initial tooling evaluation, and the recommendations were added to Sam's Pilot Plan page on the ADO Wiki.
 
-> And Evaluated the tools (Syft, Trivy, OpenVEX, and Dependency-Track) and shared the documentation  to samual. 
+> And Evaluated the tools (Syft, Trivy, OpenVEX, and Dependency-Track) and shared the document to samual. 
 
 >Helped Sam prepare for the pilot by checking all the prerequisites in Azure DevOps and making sure the same setup would also work in GitHub Actions.
 
->And Tested access in the live Dev environment by verifying access to heliosdevaksregistry.
+>And Tested access in the live Dev environment by verifying access to helios-dev-aks-registry.
 
 >Also confirmed that the build runners can download the required tools and the vulnerability database from GitHub.
 
