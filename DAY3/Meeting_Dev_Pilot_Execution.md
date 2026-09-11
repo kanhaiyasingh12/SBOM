@@ -3,7 +3,7 @@
 
 # OPENINGS
 
->Worked on the implementation plan for Fabric/Knowledge Graphs in the Dev, QA, and Production environments and added to ADO Wiki.
+> Worked on the implementation plan for Fabric/Knowledge Graphs in the Dev, QA, and Production environments and added to ADO Wiki.
 
 >I Worked e Promotion Gate failure alerts .
 
@@ -13,12 +13,10 @@
 
 > After that i Verified that the GitOps main branch is healthy and contains all the required files.
 
->Identified an immediate workaround by manually triggering the workflow and leaving the expected_gitops_revision field blank so the pipeline uses the latest main branch.
-
-> I created a PR for this and somin put comment Now i work to resolve the comment 
+ 
 
 # For SBOM
-> I go  through the 11-step pilot execution flow, covering SBOM generation, Trivy scanning, VEX validation, artifact publishing, and Dependency-Track testing.
+> I go  through the pilot execution flow, covering SBOM generation, Trivy scanning, VEX validation, artifact publishing, and Dependency-Track testing.
 
 >And Reviewed the Azure DevOps pipeline YAML template, ensuring the CLI-based approach is portable to GitHub Actions.
 
