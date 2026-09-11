@@ -14,6 +14,7 @@
 > After that i Verified that the GitOps main branch is healthy and contains all the required files.
 
 >Identified an immediate workaround by manually triggering the workflow and leaving the expected_gitops_revision field blank so the pipeline uses the latest main branch.
+
 > I created a PR for this and somin put comment Now i work to resolve the comment 
 
 # For SBOM
