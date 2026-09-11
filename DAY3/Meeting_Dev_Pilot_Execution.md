@@ -3,7 +3,7 @@
 
 # OPENINGS
 
->Worked on the implementation plan for the Dev, QA, and Production environments and documented it in the Azure DevOps Wiki.
+>Worked on the implementation plan for Fabric/Knowledge Graphs in the Dev, QA, and Production environments and added to ADO Wiki.
 
 >I Worked e Promotion Gate failure alerts .
 
